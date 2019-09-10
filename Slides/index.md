@@ -9,7 +9,7 @@ theme : black
 
 by [Oleksandr Goranskyy](mailto:ogoranskyy@epages.com)
 
-![](ep.R&Dday19.png)
+![](img/ep.R&Dday19.png)
 
 <!--s-->
 
@@ -32,6 +32,40 @@ by [Oleksandr Goranskyy](mailto:ogoranskyy@epages.com)
 - Phishing 🎣
 - Vishing 📱
 - Impersonation 🤓
+
+<!--s-->
+
+## Hacking?!? ⚠️
+
+![](img/wait_thats_illigal.jpg)
+
+<!--s-->
+
+## Legality of hacking 📖
+- Grundgesetz (GG)
+- Strafgesetzbuch (StGB)
+- Bundesdatenschutzgesetz (BDSG)
+
+<!--v-->
+
+## Grundgesetz (GG) 🇩🇪
+- Artikel 10 (Briefgeheimnis)
+- english: Secrecy of correspondence
+- Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität IT-Systeme
+- english: fundamental right to confidentiality and probity in IT-systems
+
+<!--v-->
+
+## Strafgesetzbuch (StGB) 👮
+- §§ 202a, b, c - roughly says spying is illigal
+- § 263a - says all forms of hacking are illigal
+- § 303a, b - computer sabotage is illigal
+
+<!--v-->
+
+## Bundesdatenschutzgesetz (BDSG) 🔐
+- The German data protection act
+> Fun fact: gathering data for foreigen goverments or milliraty is considered espionage which is a form of treason
 
 <!--s-->
 
